@@ -13,7 +13,7 @@
     --bs-cyan: #30beff;
     --bs-white: #FFFFFF;
     --bs-gray: #526872;
-    --bs-gray-dark: #35434a;
+    --bs-gray-dark: #606f77;
     --bs-gray-100: #c0cacf;
     --bs-gray-200: #a8b6bc;
     --bs-gray-300: #90a2aa;
@@ -21967,7 +21967,7 @@ html {
 
 body {
     background-color: transparent;
-    background-image: url(/static/assets/pattern.png);
+    background-image: url(//cdn.jsdelivr.net/gh/btctom00n/cdn/img/pattern.png);
     background-size: 4.6875rem;
     background-repeat: repeat;
     background-attachment: fixed;
